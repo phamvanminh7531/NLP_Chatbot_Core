@@ -1,0 +1,36 @@
+{
+    "questions":[
+        {
+            "type": "what",
+            "patterns": ["là", "là gì", "thế nào", "thế nào là", "là cái gì", "cái gì là", "khái niệm", "định nghĩa về", "định nghĩa", "thế", "nào", "cần gì"]
+        },
+        {
+            "type": "why",
+            "patterns": ["tại sao", "vì sao", "sao", "tại sao lại", "tại vì sao", "lý do", "lý do nào"]
+        },
+        {
+            "type": "how",
+            "patterns": ["làm thế nào", "cách", "cách nào", "làm cách nào", "làm sao để", "làm sao", "cách làm", "như thế nào"]
+        },
+        {
+            "type": "how_many",
+            "patterns": ["cần bao nhiêu", "bao nhiêu", "có bao nhiêu"]
+        },
+        {
+            "type": "who",
+            "patterns": ["là ai", "ai là", "ai"]
+        },
+        {
+            "type": "where",
+            "patterns": ["ở đâu", "đâu", "tại đâu", "ở chỗ nào", "ở"]
+        },
+        {
+            "type": "when",
+            "patterns": ["khi nào", "lúc nào", "vào khi nào", "vào lúc nào", "mấy giờ", "ngày mấy", "ngày nào", "tháng nào", "thời điểm nào", "bao lâu"]
+        },
+        {
+            "type": "yes_no",
+            "patterns": ["có không", "không", "có nên", "có nên không", "phải không", "có phải vậy không", "có hay không", "hay không"]
+        }
+    ]
+}
